@@ -1,0 +1,1 @@
+Based on the example code from Python Crash Course 3rd Edition by Eric Matthes (source repo: https://github.com/ehmatthes/pcc_3e). I use this for my learning.
